@@ -16,5 +16,5 @@ Sigue estos pasos para descargar y ejecutar la aplicación:
 
 1. **Clona este repositorio:**
    ```bash
-[   git clone https://github.com/tu-usuario/task-manager-react.git](https://github.com/IgnaCodeIA/TaskManager/tree/main)
+   https://github.com/IgnaCodeIA/TaskManager.git
    ```
