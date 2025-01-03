@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IgnaCodeIA/TaskManager/static/css/main.210e926f.css",
+    "main.js": "/IgnaCodeIA/TaskManager/static/js/main.dc054857.js",
+    "index.html": "/IgnaCodeIA/TaskManager/index.html",
+    "main.210e926f.css.map": "/IgnaCodeIA/TaskManager/static/css/main.210e926f.css.map",
+    "main.dc054857.js.map": "/IgnaCodeIA/TaskManager/static/js/main.dc054857.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.210e926f.css",
+    "static/js/main.dc054857.js"
+  ]
+}
