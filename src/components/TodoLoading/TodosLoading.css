@@ -1,0 +1,50 @@
+.TodoLoading {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px;
+  }
+  
+  .TodoLoading-item {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 16px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    animation: pulse 1.5s infinite ease-in-out;
+  }
+  
+  .TodoLoading-icon,
+  .TodoLoading-text,
+  .TodoLoading-delete {
+    background-color: #e0e0e0;
+    border-radius: 4px;
+  }
+  
+  .TodoLoading-icon {
+    width: 24px;
+    height: 24px;
+  }
+  
+  .TodoLoading-text {
+    flex: 1;
+    height: 16px;
+  }
+  
+  .TodoLoading-delete {
+    width: 24px;
+    height: 24px;
+  }
+  
+  @keyframes pulse {
+    0% {
+      background-color: #e0e0e0;
+    }
+    50% {
+      background-color: #f0f0f0;
+    }
+    100% {
+      background-color: #e0e0e0;
+    }
+  }

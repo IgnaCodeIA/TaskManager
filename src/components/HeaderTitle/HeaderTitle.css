@@ -1,0 +1,10 @@
+/* HeaderTitle.css */
+.HeaderTitleContainer {
+    display: flex;            /* Activa Flexbox */
+    justify-content: center;  /* Centra horizontalmente */
+    align-items: center;      /* Centra verticalmente */
+    height: 15vh;            /* Ocupa el 100% del alto de la ventana */
+    margin: 0;                /* Elimina márgenes */
+    text-align: center;       /* Alinea el texto en el centro */
+  }
+  

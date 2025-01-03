@@ -1,0 +1,26 @@
+/* TodoSearch.css */
+
+.TodoSearchContainer {
+    margin: 0 24px;
+    height: 64px;
+  }
+  
+  .MuiOutlinedInput-root { /* Personaliza el input de Material UI */
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    color: #1E1E1F;
+  }
+  
+  .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline {
+    border-color: #202329; /* Color del borde */
+  }
+  
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #61DAFA; /* Color del borde al hacer foco */
+  }
+  
+  .MuiInputLabel-root {
+    font-family: 'Montserrat', sans-serif;
+    color: #A5A5A5;
+  }
+  

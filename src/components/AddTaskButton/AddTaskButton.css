@@ -1,0 +1,8 @@
+/* components/AddTaskButton/AddTaskButton.css */
+
+.AddTaskButtonContainer {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center;     /* Centra verticalmente si hay altura */
+  margin: 20px 0;          /* Espaciado vertical */
+}
