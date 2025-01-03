@@ -18,3 +18,9 @@ Sigue estos pasos para descargar y ejecutar la aplicación:
    ```bash
    https://github.com/IgnaCodeIA/TaskManager.git
    ```
+
+## Despliegue
+
+La aplicación está desplegada y disponible en el siguiente enlace:  
+[https://ignacodeia.github.io/TaskManager/](https://ignacodeia.github.io/TaskManager/)
+
